@@ -11,11 +11,11 @@ $$
 $$
 
 où :
-- \( u = u(x, y, z, t) \) est la température en fonction de l'espace et du temps,
-- \( \alpha \) est la diffusivité thermique (constante positive),
-- \( \nabla^2 \) est l'opérateur laplacien.
+- $u = u(x, y, z, t)$ est la température en fonction de l'espace et du temps,
+- $D$ est la diffusivité thermique (constante positive),
+- $\nabla^2$ est l'opérateur laplacien.
 
-###Cas en 1D
+### Cas en 1D
 
 En une dimension spatiale (x), l'équation devient :
 
