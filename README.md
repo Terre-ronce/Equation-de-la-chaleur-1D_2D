@@ -18,7 +18,7 @@ Pour le problème à une dimension les paramètres sont :
 
 - Dimension : $1D$ ;
 - Matériau : $Aluminium$ ;
-- Diffusivité thermique : $98.8 mm^2.s^{-1}$ ;
+- Diffusivité thermique : $98.8 mm^2.s^{-1}$ [[5]](https://analyzing-testing.netzsch.com/fr/landingpages/definition-diffusivite-thermique) [[6]](https://www.thermoconcept-sarl.com/base-de-donnees-diffusivite-thermique/);
 - Longueur : $75 mm$ ;
 - Nombre de points d'espaces : $40$ ;
 - Nombre de points de temps : $1071$ ;
@@ -155,3 +155,7 @@ Je réalise pour mes exemples des calculs sur de petites durée et dimensions n'
 [3] : Frédéric Legrand. Équation de diffusion à deux dimensions.
 
 [4] : Irfan Raju et al. A Case study on simulation of heat equation by Crank-Nicolson Method in Accordance with digital image processing
+
+[5] : Netzsch. Définition de la diffusivité thermique.
+
+[6] : ThermoConcept. Base de données diffusivité thermique | Plus de mille matériaux répertoriés.
