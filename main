@@ -1,0 +1,5 @@
+from ressim import EquationChaleur
+
+if __name__ == '__main__':
+    equ = EquationChaleur('1D', 'Aluminium')
+    equ.Simuler()
